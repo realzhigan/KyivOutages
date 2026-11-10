@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Відключення світла</string>
+    <string name="widget_desc">Графік відключень ДТЕК за вашою адресою</string>
+</resources>
